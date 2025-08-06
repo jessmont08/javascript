@@ -8,3 +8,4 @@ if (entrada == null || entrada.trim() === ' ' || isNaN(Number(entrada))){
         console.log(`Contador do for = ${c} || Var controladora = ${cont}`);
         cont += 1;
     }
+}
